@@ -62,7 +62,7 @@ def create_post():
         'type' : 'photo',
         'source' : object_link,
         'slug' : object_id,
-		'status' : 'queue'
+		'state' : 'queue'
 		}
 
 	blog = 'http://api.tumblr.com/v2/blog/' + tumblr_blog + '/post'
