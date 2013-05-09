@@ -1,4 +1,4 @@
-Encoded Catalog
+Robot Readable Design Museum
 ===
 
-http://encodedcatalog.tumblr.com
+http://robotreadabledesignmuseum.tumblr.com
